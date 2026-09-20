@@ -132,20 +132,6 @@
 
 ---
 
-# 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botta-sai-prasad)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bug%20Hunting%20Playbook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithevapt)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.the.vapt@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🔐 Finding vulnerabilities.  
