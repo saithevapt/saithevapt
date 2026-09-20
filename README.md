@@ -6,11 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-saithevapt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithevapt)
 [![Email](https://img.shields.io/badge/Email-sai.the.vapt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.the.vapt@gmail.com)
 
-![Web Security](https://img.shields.io/badge/Web%20Security-FF6B6B?style=flat-square)
-![API Security](https://img.shields.io/badge/API%20Security-4D96FF?style=flat-square)
-![Mobile Security](https://img.shields.io/badge/Mobile%20Security-6BCB77?style=flat-square)
-![Network Security](https://img.shields.io/badge/Network%20Security-9B59B6?style=flat-square)
-
 </div>
 
 ---
