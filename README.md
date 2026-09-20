@@ -1,12 +1,10 @@
-<div align="center">
-
 # 👋 Hi, I'm **Botta Sai Prasad**
 
 ### 🛡️ VAPT Engineer | 🌐 Web | 🔌 API | 📱 Mobile | 🖧 Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Botta%20Sai%20Prasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botta-sai-prasad)
-[![GitHub](https://img.shields.io/badge/GitHub-Bug%20Hunting%20Playbook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithevapt)
-[![Email](https://img.shields.io/badge/Email-sai%40vaeto.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.the.vapt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-saithevapt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithevapt)
+[![Email](https://img.shields.io/badge/Email-sai.the.vapt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai.the.vapt@gmail.com)
 
 ![Web Security](https://img.shields.io/badge/Web%20Security-FF6B6B?style=flat-square)
 ![API Security](https://img.shields.io/badge/API%20Security-4D96FF?style=flat-square)
@@ -34,6 +32,7 @@
 | 🔢 Total | **18** |
 
 ### Activities
+
 - 🔎 Vulnerability identification
 - ✅ Vulnerability validation
 - ⚠️ Risk assessment
@@ -108,16 +107,6 @@
 
 ---
 
-# 📊 Security Highlights
-
-<div align="center">
-
-![VAPT Projects](https://img.shields.io/badge/VAPT%20Projects-18-00C853?style=for-the-badge)
-![Web Projects](https://img.shields.io/badge/Web-13-2196F3?style=for-the-badge)
-![Mobile Projects](https://img.shields.io/badge/Mobile-3-9C27B0?style=for-the-badge)
-![Network Projects](https://img.shields.io/badge/Network-2-FF9800?style=for-the-badge)
-![Cold Calls](https://img.shields.io/badge/Cold%20Calls-100%2B-E91E63?style=for-the-badge)
-
 </div>
 
 ---
@@ -127,17 +116,5 @@
 <div align="center">
 
 🏅 **Certified Associate Penetration Tester**
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 Finding vulnerabilities.  
-### 🛠️ Helping organizations fix them.  
-### 🚀 Building a more secure digital world.
-
-**Thanks for visiting my profile! 👋**
 
 </div>
