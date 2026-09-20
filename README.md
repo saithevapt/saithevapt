@@ -1,16 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saithevapt/saithevapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Botta Sai Prasad**
 
-Here are some ideas to get you started:
+### 🛡️ VAPT Engineer | 🌐 Web | 🔌 API | 📱 Mobile | 🖧 Network
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Botta%20Sai%20Prasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botta-sai-prasad)
+[![GitHub](https://img.shields.io/badge/GitHub-Bug%20Hunting%20Playbook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithevapt/Bug-Hunting-Playbook)
+[![Email](https://img.shields.io/badge/Email-sai%40vaeto.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai@vaeto.in)
+
+![Web Security](https://img.shields.io/badge/Web%20Security-FF6B6B?style=flat-square)
+![API Security](https://img.shields.io/badge/API%20Security-4D96FF?style=flat-square)
+![Mobile Security](https://img.shields.io/badge/Mobile%20Security-6BCB77?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network%20Security-9B59B6?style=flat-square)
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🏢 Vaeto Technologies Private Limited
+
+**🔐 Cyber Security Intern**  
+📅 **May 2026 – Present**
+
+> 🚀 Independently handled end-to-end VAPT for **18 projects**
+
+| Environment | Projects |
+|---|---:|
+| 🌐 Web | **13** |
+| 📱 Mobile | **3** |
+| 🖧 External Network | **2** |
+| 🔢 Total | **18** |
+
+### Activities
+- 🔎 Vulnerability identification
+- ✅ Vulnerability validation
+- ⚠️ Risk assessment
+- 📝 Security reporting
+- 🔁 Retesting
+
+---
+
+## 🌸 BetterGiftFlowers
+
+**🛡️ Freelance VAPT Engineer**  
+📅 **August 2026**
+
+- 🚨 Identified and responsibly disclosed a **Price Tampering** vulnerability.
+- 🔓 This led to authorization for a **full Web VAPT**.
+- 🔎 Conducted an end-to-end security assessment of the web application.
+- 📄 Delivered a comprehensive VAPT report covering:
+  - Validated findings
+  - Risk analysis
+  - Remediation recommendations
+- 🔁 Performed post-remediation retesting.
+
+---
+
+## 🏢 Cyberensis InfoSec
+
+**💼 Business Development Executive Intern**  
+📅 **March 2026 – April 2026**
+
+- 🔐 Performed VAPT on **1 Web Application** and **1 Network Environment**.
+- 🔎 Identified security vulnerabilities.
+- 📝 Prepared security assessment reports.
+- 🎨 Contributed to **56 cybersecurity posters**.
+- 🤖 Created **12 AI-generated videos**.
+- ✍️ Contributed **15 blogs**.
+- 📞 Conducted **100+ cold calls**, client outreach, and lead-generation activities.
+
+---
+
+## 🎓 Frontlines EduTech (FLM)
+
+**🧑‍💻 Technical Assistance Support Intern**  
+📅 **August 2025 – September 2025**
+
+- 👨‍🏫 Supported live cybersecurity training sessions for batches of **250 learners**.
+- 🛠️ Assisted with technical issues related to tools and labs.
+- 💬 Responded to learner queries with clear and professional communication.
+
+---
+
+# 🏆 Responsible Disclosure & Security Achievements
+
+<div align="center">
+
+### 🔥 Security Findings
+
+</div>
+
+| 🔐 Vulnerability | 🏢 Organization | ✅ Status |
+|---|---|---|
+| 💉 **SQL Injection (SQLi)** | ANITS College | ✅ Remediated |
+| 💉 **SQL Injection (SQLi)** | Exploit IT | ✅ Remediated |
+| 🌐 **Cross-Site Scripting (XSS)** | Ahaguru | ✅ Fixed |
+| 📤 **File Upload** | Maestros Electronics & Telecommunications Systems Limited | ✅ Remediated |
+| 💰 **Price Manipulation** | CakesCraft Vizag | ✅ Fixed |
+| 💰 **Price Manipulation** | BetterGiftFlowers | ✅ Fixed |
+| 💰 **Price Manipulation** | Chennai Angadi | ✅ Fixed |
+| 🔓 **IDOR** | BetterGiftFlowers | ✅ Remediated |
+| 👤 **User Data Exposure** | Chennai Angadi | ✅ Fixed |
+| ⚙️ **Exposed Environment / Configuration Files** | Zadez Hong Kong | ✅ Secured |
+| 🔗 **Broken Link Hijacking** | Perambur Sri Srinivasa Sweets & Snacks | ✅ Remediated |
+
+---
+
+# 📊 Security Highlights
+
+<div align="center">
+
+![VAPT Projects](https://img.shields.io/badge/VAPT%20Projects-18-00C853?style=for-the-badge)
+![Web Projects](https://img.shields.io/badge/Web-13-2196F3?style=for-the-badge)
+![Mobile Projects](https://img.shields.io/badge/Mobile-3-9C27B0?style=for-the-badge)
+![Network Projects](https://img.shields.io/badge/Network-2-FF9800?style=for-the-badge)
+![Cold Calls](https://img.shields.io/badge/Cold%20Calls-100%2B-E91E63?style=for-the-badge)
+
+</div>
+
+---
+
+# 📜 Certification
+
+<div align="center">
+
+🏅 **Certified Associate Penetration Tester**
+
+</div>
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botta-sai-prasad)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bug%20Hunting%20Playbook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saithevapt/Bug-Hunting-Playbook)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai@vaeto.in)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Finding vulnerabilities.  
+### 🛠️ Helping organizations fix them.  
+### 🚀 Building a more secure digital world.
+
+**Thanks for visiting my profile! 👋**
+
+</div>
